@@ -1,2 +1,2 @@
 # tetris
-Juego de tetris desaroolado con HTML, CSS y JS
+Juego de tetris desarrolado con HTML, CSS y JS
